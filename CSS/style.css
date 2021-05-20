@@ -16,3 +16,35 @@ body{
 .about-container{
     background-color:rgb(9, 170, 170);
 }
+
+.education-container{
+    background-color:cornsilk;
+}
+.bg-redtype{
+    background-color:rgb(177, 115, 64);
+}
+.bg-redtype-color{
+    color:rgb(177, 115, 64);
+}
+
+.circle{
+    background-color:rgb(177, 115, 64);
+    height: 150px;
+    width: 150px;
+    border-radius:50%;
+    
+}
+
+
+@media (min-width: 300px) {
+    .navbar-container img{
+        margin: auto;
+    }
+  }
+
+@media (min-width: 756px) {
+    .navbar-container img{
+        margin-left: 30px;
+    }
+
+ }
