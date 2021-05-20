@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif;
+}
+
+.banner-container{
+    background-color: rgb(165, 207, 199);
+}
+
+.banner-column{
+    background-color:cadetblue;
+}
