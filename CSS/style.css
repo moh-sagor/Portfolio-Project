@@ -32,9 +32,12 @@ body{
     height: 150px;
     width: 150px;
     border-radius:50%;
-    
-}
 
+}
+.project-container{
+    background-color:rgb(7, 180, 248);
+    text-decoration: none !important;
+}
 
 @media (min-width: 300px) {
     .navbar-container img{
