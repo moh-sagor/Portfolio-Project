@@ -10,7 +10,10 @@ body{
     background-color:cadetblue;
 }
 .navbar-container{
+    top:0;
     background-color: cadetblue;
+    position:sticky;
+    z-index: 0;
 }
 
 .about-container{
@@ -37,6 +40,10 @@ body{
 .project-container{
     background-color:rgb(7, 180, 248);
     text-decoration: none !important;
+}
+
+.form-container{
+    background-color:black;
 }
 
 @media (min-width: 300px) {
