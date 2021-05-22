@@ -58,3 +58,19 @@ body{
     }
 
  }
+
+ .inner-form{
+     background-color: rgb(27, 17, 17);
+ }
+
+ .send-btn{
+     background-color: rgb(208, 219, 191);
+     padding:2px;
+     border-radius: 25px;
+ }
+ .send-btn:hover{
+    background-color: rgb(6, 252, 18);
+    padding:2px;
+    border-radius: 25px;
+    color:hotpink;
+}
